@@ -2,5 +2,6 @@
 
 ```
 This is what it should look like:
-![alt text](https://www.google.com/search?sca_esv=572280770&rlz=1CASFKO_enUS1061&q=mandelbrot+set&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiXwfTuiOyBAxVgl4kEHUTNCJUQ0pQJegQIDRAB&safe=active&ssui=on#imgrc=Yn7Rk2dVwMcVfM)
+![mandel1](https://github.com/Rohan-Bharatia/The-Mandelbrot-Set/assets/144117280/b1ea106d-86c6-48a8-82f4-6ce9240f8cd1)
+
 ```
